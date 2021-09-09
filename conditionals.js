@@ -1,5 +1,6 @@
+console.log("Code for all examples have been commented in order to run each one at a time");
 //Example 1
-const raining = false;
+//const raining = false;
 //const cold = false;
 
 //if (raining) {
